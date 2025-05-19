@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/JS-project-1.htm"
+status = 200
